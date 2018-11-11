@@ -1,7 +1,7 @@
 {
   "main.css": "/food-cards/static/css/main.df4fc0f1.chunk.css",
-  "main.js": "/food-cards/static/js/main.798f31c8.chunk.js",
-  "main.js.map": "/food-cards/static/js/main.798f31c8.chunk.js.map",
+  "main.js": "/food-cards/static/js/main.e467c9ad.chunk.js",
+  "main.js.map": "/food-cards/static/js/main.e467c9ad.chunk.js.map",
   "static/js/1.32dd0294.chunk.js": "/food-cards/static/js/1.32dd0294.chunk.js",
   "static/js/1.32dd0294.chunk.js.map": "/food-cards/static/js/1.32dd0294.chunk.js.map",
   "runtime~main.js": "/food-cards/static/js/runtime~main.ed5cb43a.js",
@@ -10,6 +10,6 @@
   "static/media/card.scss": "/food-cards/static/media/cat.2ee8ab62.jpg",
   "static/media/card-list.scss": "/food-cards/static/media/main-bg.30b5cd06.jpg",
   "index.html": "/food-cards/index.html",
-  "precache-manifest.59ecccd3deaecc4d37a44d5e44f427fa.js": "/food-cards/precache-manifest.59ecccd3deaecc4d37a44d5e44f427fa.js",
+  "precache-manifest.9740082e5d7c010cf0fb32ef74987457.js": "/food-cards/precache-manifest.9740082e5d7c010cf0fb32ef74987457.js",
   "service-worker.js": "/food-cards/service-worker.js"
 }
