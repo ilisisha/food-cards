@@ -21,5 +21,11 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-plugin-transform-react-pug": "^6.0.1",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0"
+  }
 }
