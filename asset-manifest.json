@@ -1,15 +1,15 @@
 {
-  "main.css": "/food-cards/static/css/main.4eab962c.chunk.css",
-  "main.js": "/food-cards/static/js/main.945c1e5f.chunk.js",
-  "main.js.map": "/food-cards/static/js/main.945c1e5f.chunk.js.map",
+  "main.css": "/food-cards/static/css/main.4fe604c0.chunk.css",
+  "main.js": "/food-cards/static/js/main.ae7181f3.chunk.js",
+  "main.js.map": "/food-cards/static/js/main.ae7181f3.chunk.js.map",
   "static/js/1.32dd0294.chunk.js": "/food-cards/static/js/1.32dd0294.chunk.js",
   "static/js/1.32dd0294.chunk.js.map": "/food-cards/static/js/1.32dd0294.chunk.js.map",
   "runtime~main.js": "/food-cards/static/js/runtime~main.ed5cb43a.js",
   "runtime~main.js.map": "/food-cards/static/js/runtime~main.ed5cb43a.js.map",
-  "static/css/main.4eab962c.chunk.css.map": "/food-cards/static/css/main.4eab962c.chunk.css.map",
-  "static/media/card.scss": "/food-cards/static/media/cat.116e37e4.jpg",
+  "static/css/main.4fe604c0.chunk.css.map": "/food-cards/static/css/main.4fe604c0.chunk.css.map",
+  "static/media/card.scss": "/food-cards/static/media/cat.2ee8ab62.jpg",
   "static/media/card-list.scss": "/food-cards/static/media/main-bg.30b5cd06.jpg",
   "index.html": "/food-cards/index.html",
-  "precache-manifest.21f881ee5e3525e15a62c3acecf41a03.js": "/food-cards/precache-manifest.21f881ee5e3525e15a62c3acecf41a03.js",
+  "precache-manifest.df9c9a7b2f90231ac7851db37dd2c15a.js": "/food-cards/precache-manifest.df9c9a7b2f90231ac7851db37dd2c15a.js",
   "service-worker.js": "/food-cards/service-worker.js"
 }

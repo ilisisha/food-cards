@@ -4,27 +4,27 @@ self.__precacheManifest = [
     "url": "/food-cards/static/media/main-bg.30b5cd06.jpg"
   },
   {
-    "revision": "116e37e4a67d9491b4721026e07613ec",
-    "url": "/food-cards/static/media/cat.116e37e4.jpg"
+    "revision": "2ee8ab6258433a22a48953bad09d884d",
+    "url": "/food-cards/static/media/cat.2ee8ab62.jpg"
   },
   {
     "revision": "ed5cb43ab50e6658dee2",
     "url": "/food-cards/static/js/runtime~main.ed5cb43a.js"
   },
   {
-    "revision": "945c1e5f2e0d307fd0c7",
-    "url": "/food-cards/static/js/main.945c1e5f.chunk.js"
+    "revision": "ae7181f330d7a142e3fa",
+    "url": "/food-cards/static/js/main.ae7181f3.chunk.js"
   },
   {
     "revision": "32dd02942d0bb1c36e00",
     "url": "/food-cards/static/js/1.32dd0294.chunk.js"
   },
   {
-    "revision": "945c1e5f2e0d307fd0c7",
-    "url": "/food-cards/static/css/main.4eab962c.chunk.css"
+    "revision": "ae7181f330d7a142e3fa",
+    "url": "/food-cards/static/css/main.4fe604c0.chunk.css"
   },
   {
-    "revision": "d25f5d989373a0ae71abbfe27e4ae158",
+    "revision": "61ac9c7ceeabafde3ff1195bea1d9295",
     "url": "/food-cards/index.html"
   }
 ];
