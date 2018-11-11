@@ -40,7 +40,7 @@ class Card extends Component {
 			if (event.currentTarget.classList.contains('food-item__caption') && 
 			event.target.tagName == 'SPAN'  &&
 			this.isFirstOut) {
-				event.curentTerget.innerHTML = this.props.card.desc
+				event.currentTarget.innerHTML = this.props.card.desc
 				this.isFirstOut = false
 			}
 			let target = event.currentTarget.parentNode
