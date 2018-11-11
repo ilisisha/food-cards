@@ -37,6 +37,13 @@ p {
 	color: #ffffff;	
 }
 
+.food-cards {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin-bottom: 30px;
+}
 
 @media screen and (min-width: 1200px) {
 	.container {
@@ -48,5 +55,8 @@ p {
 	}
 	.main__title {
 		font-size: 36px;
+	}
+	.food-cards {
+		justify-content: space-between;
 	}
 }

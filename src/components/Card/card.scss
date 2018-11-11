@@ -1,13 +1,5 @@
 @import "../../resources/variables";
 
-.food-cards {
-	display: flex;
-	align-items: flex-start;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	margin-bottom: 30px;
-}
-
 .food-item {
 	width: 285px;
 	margin: 15px;
@@ -24,9 +16,9 @@
 		position: relative;
 		top: 0;
 		box-sizing: border-box;
-		border-left: 4px solid #1698d9;
-		border-right: 4px solid #1698d9;
-		border-bottom: 4px solid #1698d9;
+		border-left: 4px solid $card-base;
+		border-right: 4px solid $card-base;
+		border-bottom: 4px solid $card-base;
 		border-bottom-left-radius: 10px;
 		border-bottom-right-radius: 10px;
 		background: white url(../../resources/images/cat.jpg) no-repeat -30px 120px;
@@ -62,8 +54,8 @@
 	top: 1px;
 	left: 44px;
 	padding-top: 17px;
-	border-top: 4px solid #1698d9;
-	border-right: 4px solid #1698d9;
+	border-top: 4px solid $card-base;
+	border-right: 4px solid $card-base;
 	border-top-right-radius: 10px;
 	color: $card-consist;
 	&:before {
@@ -228,9 +220,6 @@
 	.food-item {
 		width: 320px;
 		margin: 0;
-	}
-	.food-cards {
-		justify-content: space-between;
 	}
 	.food-item__name {
 		p {
