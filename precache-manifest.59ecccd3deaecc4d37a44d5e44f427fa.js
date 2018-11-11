@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/food-cards/static/js/runtime~main.ed5cb43a.js"
   },
   {
-    "revision": "ae7181f330d7a142e3fa",
-    "url": "/food-cards/static/js/main.ae7181f3.chunk.js"
+    "revision": "798f31c8a6a2a614571f",
+    "url": "/food-cards/static/js/main.798f31c8.chunk.js"
   },
   {
     "revision": "32dd02942d0bb1c36e00",
     "url": "/food-cards/static/js/1.32dd0294.chunk.js"
   },
   {
-    "revision": "ae7181f330d7a142e3fa",
-    "url": "/food-cards/static/css/main.4fe604c0.chunk.css"
+    "revision": "798f31c8a6a2a614571f",
+    "url": "/food-cards/static/css/main.df4fc0f1.chunk.css"
   },
   {
-    "revision": "61ac9c7ceeabafde3ff1195bea1d9295",
+    "revision": "3aba0d4b9aae42d81b185183e9325724",
     "url": "/food-cards/index.html"
   }
 ];
